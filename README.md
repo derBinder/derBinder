@@ -7,4 +7,5 @@ I am always looking for new challenges and opportunities to expand my skills. Do
 
 ![](https://komarev.com/ghpvc/?username=derBinder)
 ![](https://www.codewars.com/users/derBinder/badges/micro)   
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derBinder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
